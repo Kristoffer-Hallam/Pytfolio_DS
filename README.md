@@ -26,7 +26,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Projetos:
 Veja os artigos publicados com os links abaixo:
 
-* **Como usar o Selenium para baixar seus dados do ICGEM:** COLOCAR O LINK PARA O COLAB
+* **How to Apply Selenium on Automated ICGEM Data Download:** COLOCAR O LINK PARA O COLAB
 * **How to Apply Wordcloud in Python:** [https://bit.ly/2OxsphM](https://colab.research.google.com/drive/1NNlYmhw-lRX13lce6rr8jzR4J_q5CHsU)
 
 ---
