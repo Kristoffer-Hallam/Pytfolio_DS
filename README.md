@@ -28,5 +28,6 @@ Veja os artigos publicados com os links abaixo:
 
 * **How to Apply Selenium on Automated ICGEM Data Download:** COLOCAR O LINK PARA O COLAB
 * **How to Apply Wordcloud in Python:** [https://bit.ly/2OxsphM](https://colab.research.google.com/drive/1NNlYmhw-lRX13lce6rr8jzR4J_q5CHsU)
+* **Crude Data Analysis of London's Airbnb data:** [https://bit.ly/2OxsphM](https://colab.research.google.com/drive/1vc8mKj7OL-rw1udNtnbbbd7c4Wy-rau-)
 
 ---
